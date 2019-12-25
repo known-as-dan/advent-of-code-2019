@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 day-3/puzzle_1.py"
